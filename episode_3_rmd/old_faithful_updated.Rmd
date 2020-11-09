@@ -54,3 +54,5 @@ plot(df$waiting, df$eruptions)
 
 ```
 
+This scatter plot clearly shows to separate distributions corresponding to the two different *types*
+of eruption - short eruptions which happen frequently, and long eruptions which happen infrequently. 
