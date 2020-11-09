@@ -47,10 +47,10 @@ Both the duration of eruptions and waiting time show a bimodal distribution.
 In further work I will plot the scatter of the data ('eruptions duration' vs 'waiting time' ) to see whether
 I can detect any patterns. 
 
-# Updated analysis
+<!-- # Updated analysis -->
 
-```{r}
-plot(df$waiting, df$eruptions)
+<!-- ```{r} -->
+<!-- plot(df$waiting, df$eruptions) -->
 
-```
+<!-- ``` -->
 
